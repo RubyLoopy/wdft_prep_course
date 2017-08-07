@@ -29,41 +29,53 @@ div
 
 /* FIRST ROW : FLOATS; */
 .a1 {
+	float: right;
 }
 
 .b1 {
+	float: left;
 }
 
 .c1 {
+	float: right;
 }
 
 .d1 {
+	float: left;
 }
 
 /* SECOND ROW : DISPLAY */
 
 .a2 {
+	display: inline-block;
 }
 
 .b2 {
+	display: block;
 }
 
 .c2 {
+	display: inline;
 }
 
 .d2 {
+	display: none;
 }
 
 /* THIRD ROW : POSITION */
 
 .a3 {
+	position: absolute;
 }
 
 .b3 {
+	position: static;
 }
 
 .c3 {
+	position: relative;
 }
 
 .d3 {
+	position: fixed;
 }
